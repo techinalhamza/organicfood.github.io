@@ -39,13 +39,12 @@
 text-align:center;
 padding: 2rem 0 3.5rem 0;
 font-size: 3rem;
-color: red;
 text-shadow: var(--box-shadow) ;
 }
 .heading span{
  background: var(--green);
-color:#fff;
-padding:5rem;
+ color:#fff;
+ padding:5rem;
 }
  .btn{
     margin-top: 1rem;
