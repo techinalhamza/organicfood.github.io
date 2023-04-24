@@ -42,7 +42,7 @@ font-size: 3rem;
 }
 .heading span{
  background: var(--green);
- color: #fff;
+ color: white;
  padding: 5rem;
 }
  .btn{
