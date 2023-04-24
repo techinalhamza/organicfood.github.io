@@ -44,6 +44,8 @@ text-shadow: var(--box-shadow) ;
 }
 .heading span{
  background: var(--green);
+color:#fff;
+padding:5rem;
 }
  .btn{
     margin-top: 1rem;
