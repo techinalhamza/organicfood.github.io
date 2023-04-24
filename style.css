@@ -39,11 +39,12 @@
 text-align:center;
 padding: 2rem 0 3.5rem 0;
 font-size: 3rem;
+color: bar(--black) ;
 }
 .heading span{
  background: var(--green);
  color: white;
- padding: 5rem;
+ padding: 5rem 3rem;
  clip-path: polygon(100% 0, 93% 50%, 100% 99%, 0 100%);
 }
  .btn{
